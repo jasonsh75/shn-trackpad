@@ -1,0 +1,32 @@
+{
+  "Basic Setup": {
+    "sport": "football",
+    "elements": [
+      {
+        "id": 1,
+        "type": "player",
+        "x": 100,
+        "y": 100,
+        "color": "#007bff",
+        "label": "GK"
+      },
+      {
+        "id": 2,
+        "type": "cone",
+        "x": 200,
+        "y": 200,
+        "color": "orange",
+        "label": ""
+      }
+    ],
+    "lines": [
+      [
+        100,
+        100,
+        200,
+        200
+      ]
+    ],
+    "note": "Basic template"
+  }
+}
